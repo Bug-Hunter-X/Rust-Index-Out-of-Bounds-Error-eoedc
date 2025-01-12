@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates an index out of bounds error. The program creates a vector, adds some elements, and then attempts to access an element using an index that is out of bounds. This results in a runtime panic.  The `bugSolution.rs` file provides a corrected version of the code that handles the potential for index out of bounds errors.
